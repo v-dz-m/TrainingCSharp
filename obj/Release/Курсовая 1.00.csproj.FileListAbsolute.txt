@@ -1,0 +1,16 @@
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\bin\Release\Курсовая 1.00.exe.config
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\bin\Release\Курсовая 1.00.exe
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\bin\Release\Курсовая 1.00.pdb
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая_1._00.LessonForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая_1._00.MainForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая_1._00.Properties.Resources.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая_1._00.SlideForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая_1._00.TestForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая_1._00.UnitForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая 1.00.csproj.GenerateResource.Cache
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая 1.00.exe
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая 1.00.pdb
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая 1.00.csprojResolveAssemblyReference.cache
+D:\Папка для ерунды\Projects12\Курсовая 1.00\Курсовая 1.00\bin\Release\Курсовая 1.00.exe.config
+D:\Папка для ерунды\Projects12\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая 1.00.exe
+D:\Папка для ерунды\Projects12\Курсовая 1.00\Курсовая 1.00\obj\Release\Курсовая 1.00.pdb

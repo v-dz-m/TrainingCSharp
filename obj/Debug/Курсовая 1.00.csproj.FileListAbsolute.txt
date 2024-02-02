@@ -1,0 +1,13 @@
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\bin\Debug\Курсовая 1.00.exe.config
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая 1.00.exe
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая 1.00.pdb
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\bin\Debug\Курсовая 1.00.exe
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\bin\Debug\Курсовая 1.00.pdb
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая_1._00.LessonForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая_1._00.MainForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая_1._00.Properties.Resources.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая_1._00.SlideForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая_1._00.TestForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая 1.00.csproj.GenerateResource.Cache
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая_1._00.UnitForm.resources
+C:\Users\Вадим\Documents\Visual Studio 2012\Projects\Курсовая 1.00\Курсовая 1.00\obj\Debug\Курсовая 1.00.csprojResolveAssemblyReference.cache
